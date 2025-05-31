@@ -50,9 +50,9 @@ class _FaceDetectorAppState extends State<FaceDetectorApp> {
     super.dispose();
   }
 
-  Future<String> getLocalPath(String path) async {}
+  Future<String?> getLocalPath(String path) async {}
 
-  Future<String> getAssetPath(String asset) async {}
+  Future<String?> getAssetPath(String asset) async {}
 
   void _initializeLabeler() async {}
 

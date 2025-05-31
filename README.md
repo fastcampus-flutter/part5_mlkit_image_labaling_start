@@ -1,6 +1,11 @@
 # part5_mlkit_image_labaling_start
 
-"A new Flutter project."
+# 변경사항 
+## 2025-05-31
+1. 프로젝트 의존성 최신화
+2. 빌드시 win32 오류 관련 수정
+3. android 폴더 최신화
+
 
 ## Getting Started
 
